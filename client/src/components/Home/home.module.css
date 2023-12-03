@@ -1,0 +1,6 @@
+.container{
+    background-color: rgb(48, 54, 15);
+    max-height: 1000vh;
+    max-width: 100vw;
+    padding: 2rem;
+}
